@@ -1,2 +1,2 @@
 # bands
-Pokedex criado com .Net MVC
+Bands criado com .Net MVC
