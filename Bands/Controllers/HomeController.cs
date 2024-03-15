@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using Bands.Models;
 
@@ -15,7 +16,13 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        List<Banda> bandas = [];
+        using (StreamReader leitor = new("Data\\bandas.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            bandas = JsonSerializer.Deserialize<List<Banda>>(dados);
+        }
+        return View(bandas);
     }
 
     public IActionResult Privacy()
