@@ -1,13 +1,13 @@
 ﻿[
   {
     "Numero": 1,
-    "Nome": "Bulbasaur",
+    "Nome": "AC/DC",
     "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
     "Especie": "Seed",
-    "Tipo": ["Planta", "Venenoso"],
+    "Tipo": ["Hard Rock"],
     "Altura": 0.7,
     "Peso": 6.9,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Imagem": "\\img\\bandas\\Ac15.png"
   },
   {
     "Numero": 2,
