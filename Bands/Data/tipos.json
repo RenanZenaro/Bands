@@ -1,74 +1,50 @@
 ﻿[
   {
-    "Nome": "Aço",
-    "Cor": "#aab"
+    "Nome": "Heavy Metal",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Água",
-    "Cor": "#39f"
+    "Nome": "Thrash Metal",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Dragão",
-    "Cor": "#76e"
+    "Nome": "Power Metal",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Elétrico",
-    "Cor": "#fc3"
+    "Nome": "Hard Rock",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Fada",
-    "Cor": "#e9e"
+    "Nome": "Nu Metal",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Fantasma",
-    "Cor": "#66b"
+    "Nome": "Death Metal",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Fogo",
-    "Cor": "#f42"
+    "Nome": "Glam Metal",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Gelo",
-    "Cor": "#6cf"
+    "Nome": "Rock Psicodélico",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Inseto",
-    "Cor": "#ab6"
+    "Nome": "Rock Progressivo",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Lutador",
-    "Cor": "#b54"
+    "Nome": "Punk Rock",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Normal",
-    "Cor": "#aa9"
+    "Nome": "Blues Rock",
+    "Cor": "rgb(51, 47, 47)"
   },
   {
-    "Nome": "Pedra",
-    "Cor": "#ba6"
-  },
-  {
-    "Nome": "Planta",
-    "Cor": "#7c5"
-  },
-  {
-    "Nome": "Psíquico",
-    "Cor": "#f59"
-  },
-  {
-    "Nome": "Sombrio",
-    "Cor": "#754"
-  },
-  {
-    "Nome": "Terrestre",
-    "Cor": "#db5"
-  },
-  {
-    "Nome": "Venenoso",
-    "Cor": "#a59"
-  },
-  {
-    "Nome": "Voador",
-    "Cor": "#89f"
+    "Nome": "Grunge",
+    "Cor": "rgb(51, 47, 47)"
   }
 ]
