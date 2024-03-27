@@ -35,15 +35,14 @@
             <img class="img-fluid cursor-pointer" src="@Model.Atual.Imagem" alt="@Model.Atual.Nome">
         </div>
         <div class="col-lg-8 fs-5 ps-4">
+            <p class="mb-3"><strong>Album:</strong> @Model.Atual.Album</p>
             <p class="mb-3"><strong>Descrição:</strong> @Model.Atual.Descricao</p>
-            <p class="mb-3"><strong>Espécie:</strong> @Model.Atual.Especie</p>
-            <p class="mb-3"><strong>Altura:</strong> @Model.Atual.Altura mts</p>
-            <p class="mb-3"><strong>Peso:</strong> @Model.Atual.Peso kgs</p>
-            <p class="fw-bold">Tipo</p>
+            <p class="mb-3"><strong>Altura:</strong> @Model.Atual.Altura</p>
+            <p class="fw-bold">Gênero:</p>
             <div class="btn-group">
                 @foreach (var tipo in Model.Atual.Tipo)
                 {
-                <a href="#" class="btn btn-lg text-white me-2" style="background-color:@Cor(tipo)">@tipo</a>
+                <a href="#" class="btn btn-lg text-white me-1" style="background-color:@Cor(tipo)">@tipo</a>
                 }
             </div>
         </div>
