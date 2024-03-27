@@ -4,9 +4,9 @@
     "Nome": "AC/DC",
     "Descricao": "Highway to Hell é o sexto álbum de estúdio banda australiana AC/DC, lançado em 27 de julho de 1979. Foi o último álbum do vocalista Bon Scott junto com a banda antes de sua morte em 1980. Este álbum está na lista dos 200 álbuns definitivos no Rock and Roll Hall of Fame.",
     "Album": "Highway to Hell",
+    "Faixas": 
+    "1. Highway to Hell, 2. Girls Got Rhythm, 3. Walk All Over You, 4. Touch Too Much, 5. Beating Around the Bush, 6. Shot Down in Flames, 7. Get It Hot, 8. If You Want Blood (You've Got It), 9. Love Hungry Man, 10. Night Prowler",
     "Tipo": ["Hard Rock", "Blues Rock"],
-    "Altura": 0.7,
-    "Peso": 6.9,
     "Imagem": "\\img\\bandas\\Ac15.png"
   },
   {
@@ -14,9 +14,8 @@
     "Nome": "Alice in Chains",
     "Descricao": "Dirt é o segundo álbum de estúdio da banda americana Alice in Chains, lançado em 29 de setembro 1992. O álbum é amplamente considerado uma obra-prima do grunge e um dos mais influentes da década de 1990. Dirt apresenta um som sombrio e melódico, combinado com letras profundas e emocionais que exploram temas como depressão, vício e dor.",
     "Album": "Dirt",
+    "Faixas": "",
     "Tipo": ["Grunge"],
-    "Altura": 1.0,
-    "Peso": 13.0,
     "Imagem": "\\img\\bandas\\Alice18.png"
   },
   {
@@ -24,9 +23,8 @@
     "Nome": "Angra",
     "Descricao": "Temple of Shadows é o quinto álbum de estúdio da banda brasileira Angra, lançado em 6 de setembro de 2004. Este álbum é conceitual e é frequentemente considerado um marco na carreira da banda e um dos álbuns mais aclamados do metal brasileiro. Temple of Shadows apresenta uma mistura única de metal progressivo, power metal e influências da música brasileira, combinando melodias complexas e instrumentação virtuosa.",
     "Album": "Temple of Shadows",
+    "Faixas": "",
     "Tipo": ["Power Metal"],
-    "Altura": 2.0,
-    "Peso": 100.0,
     "Imagem": "\\img\\bandas\\Angra09.png"
   },
   {
@@ -34,9 +32,8 @@
     "Nome": "Anthrax",
     "Descricao": "Among the Living é o terceiro álbum de estúdio da banda Anthrax, lançado em 22 de março de 1987. É considerado um dos álbuns mais influentes do gênero e um marco na história do thrash metal. Among the Living apresenta letras que abordam uma variedade de temas, incluindo terror, política, histórias em quadrinhos e cultura popular, combinadas com riffs de guitarra rápidos e agressivos, batidas poderosas e vocais intensos.",
     "Album": "Among the Living",
+    "Faixas": "",
     "Tipo": ["Thrash Metal"],
-    "Altura": 0.6,
-    "Peso": 8.5,
     "Imagem": "\\img\\bandas\\Anthrax08.png"
   },
   {
@@ -44,9 +41,8 @@
     "Nome": "Black Sabbath",
     "Descricao": "Paranoid é o segundo álbum de estúdio da icônica banda britânica Black Sabbath, lançado em 18 de setembro de 1970. Este álbum é muitas vezes considerado um dos mais influentes e emblemáticos na história do rock e do metal. Carregado com riffs de guitarra pesados, letras sombrias e a assinatura vocal de Ozzy Osbourne, Paranoid ajudou a estabelecer os fundamentos do gênero e consolidou a reputação do Black Sabbath como pioneiros do metal. Em 2017 foi eleito o melhor álbum de metal de todos os tempos pela revista Rolling Stone.",
     "Album": "Paranoid",
+    "Faixas": "",
     "Tipo": ["Heavy Metal"],
-    "Altura": 1.1,
-    "Peso": 19.0,
     "Imagem": "\\img\\bandas\\Black04.png"
   },
   {
@@ -54,9 +50,8 @@
     "Nome": "Bon Jovi",
     "Descricao": "Slippery When Wet é o terceiro álbum de estúdio da banda americana Bon Jovi, lançado em 18 de agosto de 1986. Este álbum é amplamente considerado o ápice da popularidade da banda e um dos álbuns de rock mais vendidos de todos os tempos. Slippery When Wet apresenta um som melódico e cativante, com letras emocionais sobre amor, relacionamentos e a vida na estrada. Este álbum está na lista dos 200 álbuns definitivos no Rock and Roll Hall of Fame e um dos mais vendidos da história do hard rock.",
     "Album": "Slippery When Wet",
+    "Faixas": "",
     "Tipo": ["Hard Rock"],
-    "Altura": 1.7,
-    "Peso": 90.5,
     "Imagem": "\\img\\bandas\\Bon14.png"
   },
   {
@@ -64,9 +59,8 @@
     "Nome": "Carcass",
     "Descricao": "Heartwork é o quarto álbum de estúdio da banda britânica Carcass, lançado em 18 de outubro de 1993. Este álbum é frequentemente citado como um marco no gênero do death metal melódico e é amplamente considerado uma influência significativa para várias bandas subsequentes.",
     "Album": "Heartwork",
+    "Faixas": "",
     "Tipo": ["Death Metal"],
-    "Altura": 0.5,
-    "Peso": 9.0,
     "Imagem": "\\img\\bandas\\Carcass27.png"
   },
   {
@@ -74,9 +68,8 @@
     "Nome": "Death",
     "Descricao": "The Sound of Perseverance é o sétimo e último álbum de estúdio da lendária banda americana Death, lançado em 31 de agosto de 1998. Este álbum é frequentemente considerado um dos marcos do gênero death metal técnico e progressivo, apresentando uma combinação impressionante de complexidade musical e brutalidade.",
     "Album": "The Sound of Perseverance",
+    "Faixas": "",
     "Tipo": ["Death Metal"],
-    "Altura": 1.0,
-    "Peso": 22.5,
     "Imagem": "\\img\\bandas\\Death25.png"
   },
   {
@@ -84,9 +77,8 @@
     "Nome": "DragonForce",
     "Descricao": "O álbum Inhuman Rampage é o terceiro álbum de estúdio da banda britânica DragonForce, lançado em 9 de janeiro de 2006. Este álbum é frequentemente considerado um dos trabalhos mais emblemáticos da banda e ajudou a solidificar sua reputação como um dos principais expoentes do power metal contemporâneo.",
     "Album": "Inhuman Rampage",
+    "Faixas": "",
     "Tipo": ["Power Metal"],
-    "Altura": 1.6,
-    "Peso": 85.5,
     "Imagem": "\\img\\bandas\\DragonForce12.png"
   },
   {
@@ -94,9 +86,8 @@
     "Nome": "Guns N' Roses",
     "Descricao": "Appetite for Destruction é o álbum de estreia da lendária banda Guns N' Roses, lançado em 21 de julho de 1987. É considerado um dos álbuns mais influentes e icônicos da história do rock, e ajudou a solidificar o Guns N' Roses como uma das bandas mais importantes e populares do final dos anos 80 e início dos anos 90. Este álbum se tornou o álbum de estreia mais vendido da história da música. Ele também aparece no topo da lista dos 10 melhores álbuns de rock de todos os tempos da revista Kerrang! e está na lista dos 200 álbuns definitivos no Rock and Roll Hall of Fame.",
     "Album": "Appetite for Destruction",
+    "Faixas": "",
     "Tipo": ["Hard Rock"],
-    "Altura": 0.3,
-    "Peso": 2.9,
     "Imagem": "\\img\\bandas\\Guns13.png"
   },
   {
@@ -104,9 +95,8 @@
     "Nome": "Helloween",
     "Descricao": "Keeper of the Seven Keys: Part II é o terceiro álbum de estúdio da banda alemã Helloween, lançado em 29 de agosto de 1988. Este álbum é frequentemente citado como um dos álbuns mais influentes e importantes no desenvolvimento do gênero do power metal, e é considerado um marco na carreira da banda. O álbum foi eleito pelo portal Loudwire e pela revista Metal Hammer como o melhor disco de power metal de todos os tempos. A revista também o contemplou na sua lista de 10 discos essenciais de power metal",
     "Album": "Keeper of the Seven Keys: Part II",
+    "Faixas": "",
     "Tipo": ["Power Metal"],
-    "Altura": 0.7,
-    "Peso": 9.9,
     "Imagem": "\\img\\bandas\\Helloween11.png"
   },
   {
@@ -114,9 +104,8 @@
     "Nome": "Iron Maiden",
     "Descricao": "The Number of the Beast é o terceiro álbum de estúdio da lendária banda britânica Iron Maiden, lançado em 22 de março de 1982. É amplamente considerado um dos álbuns mais influentes e icônicos da história do heavy metal. O álbum também marcou a estreia do novo vocalista Bruce Dickinson, que entrou para o lugar de Paul Di'Anno, e foi o último álbum com o baterista Clive Burr.",
     "Album": "The Number of the Beast",
+    "Faixas": "",
     "Tipo": ["Heavy Metal"],
-    "Altura": 1.1,
-    "Peso": 32.0,
     "Imagem": "\\img\\bandas\\Iron01.png"
   },
   {
@@ -124,9 +113,8 @@
     "Nome": "Judas Priest",
     "Descricao": "British Steel é o sexto álbum de estúdio da lendária banda britânica de heavy metal Judas Priest, lançado em 14 de abril de 1980. É frequentemente citado como um dos álbuns mais influentes e importantes na história do heavy metal, e é considerado um marco na carreira da banda. Em 2017, foi eleito o 3º melhor álbum de metal de todos os tempos pela revista Rolling Stone.",
     "Album": "British Steel",
+    "Faixas": "",
     "Tipo": ["Heavy Metal"],
-    "Altura": 0.3,
-    "Peso": 3.2,
     "Imagem": "\\img\\bandas\\Judas03.png"
   },
   {
@@ -134,9 +122,8 @@
     "Nome": "Korn",
     "Descricao": "Korn é o álbum de estreia da banda Korn, lançado em 11 de outubro de 1994. Este álbum é frequentemente creditado por estabelecer o som distintivo da banda e por ajudar a popularizar o gênero nu metal. Com sua abordagem inovadora e suas letras pessoais e sombrias que abordam temas como alienação, abuso, depressão e raiva, refletindo as experiências pessoais dos membros da banda. Korn se tornou um marco na música pesada dos anos 90.",
     "Album": "Korn",
+    "Faixas": "",
     "Tipo": ["Nu Metal"],
-    "Altura": 0.6,
-    "Peso": 10.0,
     "Imagem": "\\img\\bandas\\Korn23.png"
   },
   {
@@ -144,9 +131,8 @@
     "Nome": "Led Zeppelin",
     "Descricao": "Led Zeppelin IV é o quarto álbum de estúdio da lendária banda britânica Led Zeppelin, lançado em 8 de novembro de 1971. É amplamente considerado um dos maiores álbuns de rock de todos os tempos e um marco na história da música.",
     "Album": "Led Zeppelin IV",
+    "Faixas": "",
     "Tipo": ["Heavy Metal", "Hard Rock"],
-    "Altura": 1.0,
-    "Peso": 29.5,
     "Imagem": "\\img\\bandas\\Led02.png"
   },
   {
@@ -154,9 +140,8 @@
     "Nome": "Limp Bizkit",
     "Descricao": "Significant Other é o segundo álbum de estúdio da banda americana Limp Bizkit, lançado em 22 de junho de 1999. Este álbum é frequentemente considerado um dos trabalhos mais emblemáticos da banda e um dos álbuns mais influentes do gênero nu metal. Significant Other apresenta um som agressivo e energético, combinando elementos de rock, rap, metal e funk. O álbum é marcado por riffs de guitarra pesados, batidas poderosas, scratches de DJ e letras controversas e provocativas.",
     "Album": "Significant Other",
+    "Faixas": "",
     "Tipo": ["Nu Metal"],
-    "Altura": 0.3,
-    "Peso": 1.8,
     "Imagem": "\\img\\bandas\\Limp24.png"
   },
   {
@@ -164,9 +149,8 @@
     "Nome": "Linkin Park",
     "Descricao": "Hybrid Theory é o álbum de estreia da banda americana Linkin Park, lançado em 24 de outubro de 2000. Este álbum é frequentemente considerado um dos trabalhos mais influentes da banda e um marco na cena musical do início dos anos 2000. É o álbum de estreia mais vendido desde Appetite for Destruction, o álbum de rock mais vendido do século XXI e um dos álbuns mais vendidos de todos os tempos. Também está na lista dos 200 álbuns definitivos no Rock and Roll Hall of Fame.",
     "Album": "Hybrid Theory",
+    "Faixas": "",
     "Tipo": ["Nu Metal"],
-    "Altura": 1.1,
-    "Peso": 30.0,
     "Imagem": "\\img\\bandas\\Linkin21.png"
   },
   {
@@ -174,9 +158,8 @@
     "Nome": "Megadeth",
     "Descricao": "Rust in Peace é o quarto álbum de estúdio da banda americana Megadeth, lançado em 24 de setembro de 1990. É frequentemente citado como um dos álbuns mais influentes e aclamados da história do thrash metal e é considerado um marco na carreira da banda. O álbum apresenta uma combinação impressionante de músicas complexas, ritmos rápidos e letras inteligentes, todas executadas com maestria pelos membros da banda. Rust in Peace é conhecido por sua instrumentação técnica e virtuosismo, especialmente os riffs de guitarra de Dave Mustaine e Marty Friedman, os solos frenéticos e a precisão da seção rítmica. Em 2017, foi eleito o 19º melhor álbum de metal de todos os tempos pela revista Rolling Stone.",
     "Album": "Rust in Peace",
+    "Faixas": "",
     "Tipo": ["Thrash Metal"],
-    "Altura": 1.5,
-    "Peso": 39.5,
     "Imagem": "\\img\\bandas\\Megadeth06.png"
   },
   {
@@ -184,9 +167,8 @@
     "Nome": "Metallica",
     "Descricao": "Metallica, também conhecido como Black Album, é o quinto álbum de estúdio da banda americana Metallica, lançado em 12 de agosto de 1991. Este álbum marcou uma mudança significativa no som da banda, afastando-se de seus trabalhos anteriores mais complexos e voltados para o thrash metal, e adotando uma abordagem mais acessível e focada em riffs. Este álbum está na lista dos 200 álbuns definitivos no Rock and Roll Hall of Fame, ficando em 14º lugar e em 25º na lista de melhores álbuns de metal de todos os tempos da revista Rolling Stone.",
     "Album": "Metallica",
+    "Faixas": "",
     "Tipo": ["Thrash Metal", "Heavy Metal"],
-    "Altura": 0.3,
-    "Peso": 3.5,
     "Imagem": "\\img\\bandas\\Metallica05.png"
   },
   {
@@ -194,9 +176,8 @@
     "Nome": "Morbid Angel",
     "Descricao": "Altars of Madness é o álbum de estreia da banda Morbid Angel, lançado em 12 de maio de 1989. É frequentemente considerado um dos álbuns mais influentes e importantes no desenvolvimento do gênero do death metal e é amplamente aclamado pela crítica e pelos fãs como uma obra-prima do metal extremo. Altars of Madness foi eleito o melhor disco de death metal de todos os tempos pelas revistas Decibel e Terrorizer.",
     "Album": "Altars of Madness",
+    "Faixas": "",
     "Tipo": ["Death Metal"],
-    "Altura": 0.7,
-    "Peso": 18.5,
     "Imagem": "\\img\\bandas\\Morbid28.png"
   },
   {
@@ -204,9 +185,8 @@
     "Nome": "Nirvana",
     "Descricao": "Nevermind é o segundo álbum de estúdio da banda americana Nirvana, lançado em 24 de setembro de 1991. Este álbum é amplamente considerado um dos mais influentes e importantes na história da música, marcando o início da era do grunge e catapultando o Nirvana para o estrelato mundial. Nevermind foi classificado entre os maiores álbuns de todos os tempos por revistas como Rolling Stone e Time.",
     "Album": "Nevermind",
+    "Faixas": "",
     "Tipo": ["Grunge"],
-    "Altura": 0.3,
-    "Peso": 2.0,
     "Imagem": "\\img\\bandas\\Nirvana17.png"
   },
   {
@@ -214,9 +194,8 @@
     "Nome": "Pearl Jam",
     "Descricao": "Ten é o álbum de estreia da banda americana de Pearl Jam, lançado em 27 de agosto de 1991. É frequentemente considerado um dos álbuns mais importantes e influentes da década de 1990, ajudando a definir o som do rock alternativo da época e solidificando o Pearl Jam como uma das bandas mais proeminentes do gênero. O álbum apresenta um som poderoso e emotivo, combinando elementos de rock, grunge e hard rock. As letras, escritas principalmente pelo vocalista Eddie Vedder, abordam uma variedade de temas, incluindo alienação, solidão, angústia e desespero, refletindo as lutas pessoais e as experiências da banda.",
     "Album": "Ten",
+    "Faixas": "",
     "Tipo": ["Grunge"],
-    "Altura": 1.2,
-    "Peso": 38.0,
     "Imagem": "\\img\\bandas\\Pearl19.png"
   },
   {
@@ -224,9 +203,8 @@
     "Nome": "Sepultura",
     "Descricao": "Roots é o sexto álbum de estúdio da banda brasileira Sepultura, lançado em 20 de fevereiro de 1996. Este álbum marca um ponto de virada na carreira da banda, apresentando uma mudança significativa em sua sonoridade, incorporando elementos de música indígena brasileira, percussão tribal e influências de world music. Roots foi considerado o 57° melhor disco da música brasileira pela edição brasileira da revista Rolling Stone, e é o último disco do grupo a contar com o vocalista e guitarrista original Max Cavalera.",
     "Album": "Roots",
+    "Faixas": "",
     "Tipo": ["Death Metal", "Thrash Metal"],
-    "Altura": 2.0,
-    "Peso": 6.9,
     "Imagem": "\\img\\bandas\\Sepultura26.png"
   },
   {
@@ -234,9 +212,8 @@
     "Nome": "Slayer",
     "Descricao": "Reign in Blood é o terceiro álbum de estúdio da banda americana Slayer, lançado em 7 de outubro de 1986. É frequentemente citado como um dos álbuns mais influentes e importantes no desenvolvimento do thrash metal e é amplamente aclamado pela crítica e pelos fãs como uma obra-prima do gênero. O álbum é conhecido por sua brutalidade e intensidade, apresentando riffs de guitarra rápidos e agressivos, solos frenéticos, batidas explosivas e vocais selvagens. Com uma duração de pouco mais de 29 minutos, Reign in Blood é um álbum curto e direto, mas extremamente poderoso. Foi considerado o álbum mais pesado de todos os tempos pela Kerrang! e ajudou a definir o som do movimento thrash metal norte-americano durante a década de 1980",
     "Album": "Reign in Blood",
+    "Faixas": "",
     "Tipo": ["Thrash Metal"],
-    "Altura": 3.5,
-    "Peso": 65.0,
     "Imagem": "\\img\\bandas\\Slayer07.png"
   },
   {
@@ -244,9 +221,8 @@
     "Nome": "Slipknot",
     "Descricao": ".5: The Gray Chapter é o quinto álbum de estúdio da banda americana Slipknot, lançado em 21 de outubro de 2014. Este álbum marca o retorno da banda após a morte do baixista Paul Gray em 2010 e a saída do baterista Joey Jordison em 2013. É um álbum emocionalmente carregado que aborda temas de perda, dor e resiliência.",
     "Album": ".5: The Gray Chapter",
+    "Faixas": "",
     "Tipo": ["Nu Metal"],
-    "Altura": 0.4,
-    "Peso": 6.0,
     "Imagem": "\\img\\bandas\\Slipknot22.png"
   },
   {
@@ -254,9 +230,8 @@
     "Nome": "Soundgarden",
     "Descricao": "Superunknown é o quarto álbum de estúdio da banda americana Soundgarden, lançado em 9 de março de 1994. Este álbum é considerado um dos marcos do grunge e é frequentemente elogiado pela crítica e pelos fãs como uma obra-prima do gênero. O álbum apresenta uma variedade de estilos musicais, desde o grunge característico da banda até influências de heavy metal, rock psicodélico e até mesmo elementos de música progressiva. Superunknown é notável por suas composições complexas, letras profundas e uma produção sonora rica e diversificada.",
     "Album": "Superunknown",
+    "Faixas": "",
     "Tipo": ["Grunge"],
-    "Altura": 0.8,
-    "Peso": 30.0,
     "Imagem": "\\img\\bandas\\Soundgarden20.png"
   },
   {
@@ -264,9 +239,8 @@
     "Nome": "Stratovarius",
     "Descricao": "Visions é o sexto álbum de estúdio da banda finlandesa Stratovarius, lançado em 28 de abril de 1997. Este álbum é amplamente considerado um marco na carreira da banda e um dos álbuns mais influentes do gênero power metal. Visions apresenta uma combinação única de riffs de guitarra rápidos, teclados épicos, melodias cativantes e vocais poderosos, tudo característico do estilo de power metal da banda. É um álbum conceitual sobre as visões de Nostradamus. Em 2017, o portal Loudwire o elegeu como o 6º melhor disco de power metal de todos os tempos.",
     "Album": "Visions",
+    "Faixas": "",
     "Tipo": ["Power Metal"],
-    "Altura": 0.6,
-    "Peso": 12.0,
     "Imagem": "\\img\\bandas\\Stratovarius10.png"
   },
   {
@@ -274,9 +248,8 @@
     "Nome": "Van Halen",
     "Descricao": "5150 é o sétimo álbum de estúdio da banda Van Halen, lançado em 24 de março de 1986. Este álbum é notável por ser o primeiro a apresentar Sammy Hagar como vocalista, substituindo David Lee Roth. O título 5150 é uma referência ao código de polícia na Califórnia para uma pessoa considerada louca e perigosa. O álbum marca uma mudança significativa na sonoridade do Van Halen, com uma abordagem mais acessível e comercial em comparação com os álbuns anteriores da banda. Apesar disso, ainda mantém o estilo distintivo de Eddie Van Halen na guitarra e apresenta composições cativantes e melodias memoráveis. O álbum foi o primeiro da banda a chegar ao topo no ranking de vendas.",
     "Album": "5150",
+    "Faixas": "",
     "Tipo": ["Hard Rock"],
-    "Altura": 1.0,
-    "Peso": 29.5,
     "Imagem": "\\img\\bandas\\Van16.png"
   }
 ]
