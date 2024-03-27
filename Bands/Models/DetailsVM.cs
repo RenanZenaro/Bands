@@ -1,4 +1,4 @@
-namespace Bands.Models
+namespace Bands.Models;
 
 public class DetailsVM
 {

@@ -16,43 +16,41 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        List<Banda> bandas = [];
-        using (StreamReader leitor = new("Data\\bandas.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            bandas = JsonSerializer.Deserialize<List<Banda>>(dados);
-        }
-        List<Tipo> tipos = [];
-        using (StreamReader leitor = new("Data\\tipos.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
-        }
+        List<Banda> bandas = GetBandas();
+        List<Tipo> tipos = GetTipos();        
         ViewData["Tipos"] = tipos;
         return View(bandas);
     }
 
     public IActionResult Details(int id)
     {
-        List<Banda> bandas = [];
-        using (StreamReader leitor = new("Data\\bandas.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            bandas = JsonSerializer.Deserialize<List<Banda>>(dados);
-        }
-        List<Tipo> tipos = [];
-        using (StreamReader leitor = new("Data\\tipos.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
-        }
+        List<Banda> bandas = GetBandas();
+        List<Tipo> tipos = GetTipos();
         DetailsVM details = new() {
             Tipos = tipos,
             Atual = bandas.FirstOrDefault(p => p.Numero == id),
             Anterior = bandas.OrderByDescending(p => p.Numero).FirstOrDefault(p => p.Numero < id),
             Proximo = bandas.OrderBy(p => p.Numero).FirstOrDefault(p => p.Numero > id),
         };
-        return View();
+        return View(details);
+    }
+
+    private List<Banda> GetBandas()
+    {
+        using (StreamReader leitor = new("Data\\bandas.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            return JsonSerializer.Deserialize<List<Banda>>(dados);
+        }
+    }
+
+    private List<Tipo> GetTipos()
+    {
+        using (StreamReader leitor = new("Data\\tipos.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            return JsonSerializer.Deserialize<List<Tipo>>(dados);
+        }
     }
 
     public IActionResult Privacy()

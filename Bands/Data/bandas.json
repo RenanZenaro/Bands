@@ -2,9 +2,9 @@
   {
     "Numero": 1,
     "Nome": "AC/DC",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Descricao": "AC/DC é uma banda australiana de rock formada em Sydney, Austrália em 1973, pelos irmãos escoceses Malcolm e Angus Young. O estilo musical da banda é normalmente classificado como hard rock e até mesmo blues rock. Mas seus membros sempre classificaram a sua música simplesmente como ''rock and roll''.",
     "Especie": "Seed",
-    "Tipo": ["Hard Rock"],
+    "Tipo": ["Hard Rock", "Blues Rock"],
     "Altura": 0.7,
     "Peso": 6.9,
     "Imagem": "\\img\\bandas\\Ac15.png"
@@ -22,7 +22,7 @@
   {
     "Numero": 3,
     "Nome": "Angra",
-    "Descricao": "Venusaur é o resultado final de uma evolução. A fragrância da flor em sua costas é conhecida por acalmar os nervos das pessoas.",
+    "Descricao": "Angra é uma banda brasileira de power metal, formada na cidade de São Paulo em 1991, pelo vocalista, tecladista e multi-instrumentista Andre Matos e os guitarristas Rafael Bittencourt e André Linhares, após se conhecerem na Faculdade Santa Marcelina, onde cursavam composição e regência. Andre Matos havia feito parte do Viper (entre 1985 e 1990) e Rafael Bittencourt fazia parte da banda Spitfire. Após a formação inicial da banda, entraram os músicos Luis Mariutti (baixo) e Marco Antunes (bateria), e André Linhares cedeu lugar a André Hernandes, e posteriormente a Kiko Loureiro. O guitarrista Rafael Bittencourt foi o único integrante a tocar em todos os álbuns da banda.",
     "Especie": "Flor",
     "Tipo": ["Power Metal"],
     "Altura": 2.0,
@@ -32,7 +32,7 @@
   {
     "Numero": 4,
     "Nome": "Anthrax",
-    "Descricao": "Charmander possui uma chama na ponta de sua cauda. Se a chama se apagar, ele morrerá, então ele a mantém acesa a todo custo.",
+    "Descricao": "Anthrax é uma banda de Thrash metal dos Estados Unidos, fundada em Nova Iorque em 1981 pelo guitarrista Scott Ian e o baixista Dan Lilker. Foi uma das mais populares bandas no cenário do thrash metal dos anos 80, notáveis pela sua combinação de metal com hardcore punk e música alternativa. Graças ao sucesso de seus primeiros álbuns, fazem parte das ''quatro grandes'' bandas do thrash metal juntamente com Metallica, Slayer e Megadeth, e já venderam cerca de 10 milhões de cópias em todo mundo.",
     "Especie": "Lagarto",
     "Tipo": ["Thrash Metal"],
     "Altura": 0.6,
@@ -42,7 +42,7 @@
   {
     "Numero": 5,
     "Nome": "Black Sabbath",
-    "Descricao": "Charmeleon é conhecido por sua natureza teimosa e seu desejo de ser o líder. Ele evolui de Charmander.",
+    "Descricao": "Black Sabbath é uma banda britânica de heavy metal criada no final de década de 1960. A primeira formação tinha Ozzy Osbourne, Tony Iommi, Geezer Butler e Bill Ward. O Black Sabbath é considerado primeiro grupo de heavy metal do mundo e com mais de 100 milhões de discos vendidos durante toda a carreira.",
     "Especie": "Chama",
     "Tipo": ["Heavy Metal"],
     "Altura": 1.1,
@@ -52,7 +52,7 @@
   {
     "Numero": 6,
     "Nome": "Bon Jovi",
-    "Descricao": "Charizard voa pelo céu em busca de desafios poderosos. É conhecido por sua fúria ardente.",
+    "Descricao": "Bon Jovi é uma banda americana de rock, formada em 1983, em Sayreville, Nova Jersey. A formação atual da banda consiste no cantor Jon Bon Jovi, no tecladista David Bryan, no baterista Tico Torres, no guitarrista Phil X e no baixista Hugh McDonald.",
     "Especie": "Chama",
     "Tipo": ["Hard Rock"],
     "Altura": 1.7,
@@ -82,7 +82,7 @@
   {
     "Numero": 9,
     "Nome": "DragonForce",
-    "Descricao": "Blastoise é a forma final de Squirtle. Ele possui poderosos canhões de água que podem derrubar prédios inteiros.",
+    "Descricao": "DragonForce é uma banda inglesa de power metal que surgiu em 1999, após o fim da banda de black metal, Demoniac. Todos os integrantes, exceto Lindsay Dawson, juntaram-se com ZP Theart e fundaram a banda, com o nome DragonHeart. Dois anos depois, eles tiveram que mudar o nome para DragonForce, por causa do filme Dragonheart. Dizem também que a mudança veio devido ao nome igual ao de uma banda brasileira, que desde 1997 já usavam o nome Dragonheart.",
     "Especie": "Tartaruga",
     "Tipo": ["Power Metal"],
     "Altura": 1.6,
@@ -92,7 +92,7 @@
   {
     "Numero": 10,
     "Nome": "Guns N' Roses",
-    "Descricao": "Caterpie é conhecido por sua natureza gentil e por sua habilidade de liberar um odor ruim de suas antenas para afastar predadores.",
+    "Descricao": "Formanda nos Estados Unidos, em 1985, Guns N’Roses é uma das principais bandas de rock do mundo. O grupo foi formado pelos membros do Hollywood Rose, Axl Rose e Izzy Stradlin e do L.A. Guns, Tracii Guns, Ole Beich e Robbie Gardner. A partir dessa fusão, surgiu o nome Guns N’Roses - uma combinação de dois dos nomes dos membros do grupo. Poucas semanas depois, o baixista Ole Beich foi substituído por Duff McKagan enquanto a falta de Tracii Guns nos ensaios levou à sua substituição por Slash. Após a saída de Rob Gardner, Steven Adler tomou conta da bateria e então esta foi a primeira formação estável do grupo considerada a clássica.",
     "Especie": "Lagarta",
     "Tipo": ["Hard Rock"],
     "Altura": 0.3,
@@ -102,7 +102,7 @@
   {
     "Numero": 11,
     "Nome": "Helloween",
-    "Descricao": "Metapod se esconde dentro de sua concha dura enquanto evolui. Ele pode endurecer sua concha para se proteger de predadores.",
+    "Descricao": "Helloween é uma influente banda de power metal alemã, fundada em 1984. É composta por Andi Deris (vocal), Dani Löble (bateria), Sascha Gerstner (guitarra), Michael Weikath (guitarra) e Markus Grosskopf (baixo), sendo esses dois últimos membros fundadores, junto com Kai Hansen e Ingo Schwichtenberg (falecido). Em 2016, Michael Kiske e Kai Hansen foram reincorporados à banda. É considerada por muitos como a criadora do power metal. Influenciou bandas como Angra, Hammerfall, Edguy, Rhapsody of Fire, Shaman, Stratovarius, Sonata Arctica, Avantasia, entre outras. A banda possui mais de 35 anos de carreira e vendeu mais de 15 milhões de cópias em todo o mundo, até o momento.",
     "Especie": "Casulo",
     "Tipo": ["Power Metal"],
     "Altura": 0.7,
@@ -112,7 +112,7 @@
   {
     "Numero": 12,
     "Nome": "Iron Maiden",
-    "Descricao": "Butterfree tem asas grandes e coloridas que lhe permitem voar com graça. Ele é conhecido por seu pólen soporífero.",
+    "Descricao": "Iron Maiden é uma banda britânica de heavy metal, formada em 1975 pelo baixista Steve Harris, ex-integrante das bandas Gypsy's Kiss eSmiler. Originária de Londres, foi uma das principais bandas do movimento musical que ficou conhecido como NWOBHM (New Wave of British Heavy Metal).",
     "Especie": "Borboleta",
     "Tipo": ["Heavy Metal"],
     "Altura": 1.1,
@@ -122,7 +122,7 @@
   {
     "Numero": 13,
     "Nome": "Judas Priest",
-    "Descricao": "Weedle tem uma agulha venenosa em sua cabeça que ele usa para injetar veneno em seus inimigos.",
+    "Descricao": "Judas Priest é uma banda britânica de heavy metal criada em meados de 1969, em Birmingham. Formada por K. K. Downing e Ian Hill, a banda é considerada uma das precursoras do heavy metal moderno, sendo um dos grupos mais influentes na história do gênero.",
     "Especie": "Lagarta",
     "Tipo": ["Heavy Metal"],
     "Altura": 0.3,
@@ -142,7 +142,7 @@
   {
     "Numero": 15,
     "Nome": "Led Zeppelin",
-    "Descricao": "Beedrill tem agulhas venenosas em seus braços que ele usa para atacar. Ele é conhecido por seu zumbido assustador.",
+    "Descricao": "Led Zeppelin foi uma banda britânica de rock formada em Londres, em 1968. Consistia no guitarrista Jimmy Page, no vocalista Robert Plant, no baixista e tecladista John Paul Jones e no baterista John Bonham. Seu som pesado e violento de guitarra, enraizado no blues e música psicodélica de seus dois primeiros álbuns, é frequentemente reconhecido como um dos fundadores do heavy metal. Seu estilo foi inspirado em uma grande variedade de influências, incluindo a música folk, psicodélica e o blues.",
     "Especie": "Abeelha",
     "Tipo": ["Heavy Metal", "Hard Rock"],
     "Altura": 1.0,
@@ -172,7 +172,7 @@
   {
     "Numero": 18,
     "Nome": "Megadeth",
-    "Descricao": "Pidgeot é a forma final de Pidgey. Ele é conhecido por sua velocidade e agilidade no ar.",
+    "Descricao": "Megadeth é uma banda norte-americana de Thrash metal liderada por seu fundador, o vocalista e guitarrista Dave Mustaine. O grupo foi formado em 11 de abril de 1983, após Dave ser demitido do Metallica em um ônibus voltando para L.A. Desde então, a banda lançou quinze álbuns de estúdio, quatro álbuns ao vivo, dois EP e cinco compilações.",
     "Especie": "Pássaro",
     "Tipo": ["Thrash Metal"],
     "Altura": 1.5,
@@ -182,9 +182,9 @@
   {
     "Numero": 19,
     "Nome": "Metallica",
-    "Descricao": "Rattata é um Pokémon roedor encontrado em áreas urbanas. Ele é conhecido por sua habilidade de roer e mastigar coisas.",
+    "Descricao": "Metallica é uma banda norte-americana de thrash metal originária de Los Angeles, mas com base em San Francisco. O Metallica se formou em 1981, após James Hetfield responder a um anúncio que Lars Ulrich havia colocado no jornal local. A sua formação atual apresenta o baterista fundador Lars Ulrich, e o também fundador, vocalista e guitarrista rítmico James Hetfield, além do guitarrista solo Kirk Hammett (o qual se juntou à banda em 1983, após a demissão de Dave Mustaine), e o baixista Robert Trujillo (membro desde 2003).",
     "Especie": "Rato",
-    "Tipo": ["Thrash Metal"],
+    "Tipo": ["Thrash Metal", "Heavy Metal"],
     "Altura": 0.3,
     "Peso": 3.5,
     "Imagem": "\\img\\bandas\\Metallica05.png"
@@ -232,7 +232,7 @@
   {
     "Numero": 24,
     "Nome": "Slayer",
-    "Descricao": "Arbok é a forma evoluída de Ekans. Ele é conhecido por sua capacidade de assustar inimigos com seu padrão de manchas nas costas.",
+    "Descricao": "Slayer é uma banda norte-americana de thrash metal proveniente de Huntington Park, Califórnia, formada em 1981 pelos guitarristas Jeff Hanneman e Kerry King. Slayer ganhou notoriedade a partir de 1986, com o álbum Reign in Blood, descrito pela revista Kerrang como ''o álbum mais pesado de todos os tempos'', e faz parte do Big Four of Thrash, as quatro maiores bandas de thrash metal, juntamente com Metallica, Megadeth e Anthrax.",
     "Especie": "Cobra",
     "Tipo": ["Thrash Metal"],
     "Altura": 3.5,
@@ -262,7 +262,7 @@
   {
     "Numero": 27,
     "Nome": "Stratovarius",
-    "Descricao": "Sandshrew é um Pokémon roedor encontrado em desertos. Ele é conhecido por sua pele dura e sua capacidade de cavar buracos.",
+    "Descricao": "Stratovarius é uma banda finlandesa de power metal originária de Helsinque, fundada em 1984. O nome ''Stratovarius'' vem da aglutinação de Stratocaster (modelo de guitarra) com Stradivarius (marca conhecida por seus violinos). A banda vendeu milhões de cópias em todo o mundo ao longo de sua carreira e segue em atividade constante desde o seu início.",
     "Especie": "Rato",
     "Tipo": ["Power Metal"],
     "Altura": 0.6,
@@ -272,7 +272,7 @@
   {
     "Numero": 28,
     "Nome": "Van Halen",
-    "Descricao": "Sandslash é a forma evoluída de Sandshrew. Ele é conhecido por sua habilidade de rolar em uma bola para atacar seus inimigos.",
+    "Descricao": "Van Halen foi uma banda de hard rock norte-americana formada em 1972. Foi fundada pelos irmãos Eddie Van Halen e Alex Van Halen, que mais tarde juntou o cantor David Lee Roth e o baixista Michael Anthony.",
     "Especie": "Toupeira",
     "Tipo": ["Hard Rock"],
     "Altura": 1.0,

@@ -14,14 +14,17 @@
 <section class="pt-5 pb-3 text-center container-fluid bg-secondary">
     <div class="row">
         <div class="col mx-auto">
-            <h1 class="text-black">Bands</h1>
+            <h1 class="text-black">Bands 🤘</h1>
             <div class="group">
-                <button id="btn-all" class="btn btn-md my-2 text-white bg-black btn-filter">Ver
-                    Todos</button>
+                <button id="btn-all" class="btn btn-md my-2 text-white bg-black btn-filter" onclick="filter('all')">
+                    Ver Todos
+                </button>
                 @foreach (var tipo in tipos)
                 {
-                    <button id="btn-aço" class="btn btn-sm my-2 text-white btn-filter"
-                        style="background-color:@tipo.Cor">@tipo.Nome</button>
+                    <button id="btn-@tipo.Nome.Replace(' ', '-')" class="btn btn-sm my-2 text-white btn-filter"
+                        style="background-color:@tipo.Cor" onclick="filter('@tipo.Nome.Replace(' ', '-')')">
+                        @tipo.Nome
+                    </button>
                 }
             </div>
         </div>
@@ -37,7 +40,7 @@
             {
                 <!-- Card Banda - Inicio -->
                 <div class="col" onclick="window.location = '/Home/Details/@banda.Numero'">
-                    <div class="card shadow-sm cursor-pointer @string.Join(' ', banda.Tipo)">
+                    <div class="card shadow-sm cursor-pointer @(string.Join('=', banda.Tipo).Replace(' ', '-').Replace('=', ' '))">
                         <img src="@banda.Imagem" class="card-img-top" width="100%" height="300%" alt="@banda.Nome" />
                         <div class="card-body">
                             <p class="card-text mb-0">Nº @banda.Numero.ToString("000")</p>
@@ -46,8 +49,8 @@
                                 <div class="btn-group">
                                     @foreach (var tipo in banda.Tipo)
                                     {
-                                        <a href="#" class="btn my-2 text-white"
-                                            style="background-color:rgb(51, 47, 47)">@tipo</a>
+                                        <a href="#" class="btn btn-dark my-2 text-white"
+                                            style="@Cor(tipo)" onclick="filter('@tipo')">@tipo</a>
                                     }
                                 </div>
                             </div>
@@ -57,8 +60,8 @@
                 <!-- Card Banda - Fim -->
             }
 
-            <div id="zeroBanda" class="col-lg-12 text-center" hidden>
-                <h1 class="my-3 text-danger">Nenhuma Banda Encontrada</h1>
+            <div id="zeroBanda" class="col-lg-12 text-center d-none">
+                <h1 class="my-3 text-black">Nenhuma Banda Encontrada</h1>
             </div>
         </div>
 
