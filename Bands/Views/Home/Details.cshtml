@@ -20,7 +20,7 @@
         </div>
 
         <div class="col text-center">
-            <h1 class="fs-1">@Model.Atual.Nome <span class="fs-2 text-secondary">Nº @Model.Atual.Numero.ToString("000")</span></h1>
+            <h1 class="fs-1 text-black">@Model.Atual.Nome <span class="fs-2 text-secondary">Nº @Model.Atual.Numero.ToString("000")</span></h1>
         </div>
         <div class="col text-center">
             @if (Model.Proximo != null)
@@ -35,10 +35,10 @@
             <img class="img-fluid cursor-pointer" src="@Model.Atual.Imagem" alt="@Model.Atual.Nome">
         </div>
         <div class="col-lg-8 fs-5 ps-4">
-            <p class="mb-3"><strong>Album:</strong> @Model.Atual.Album</p>
-            <p class="mb-3"><strong>Descrição:</strong> @Model.Atual.Descricao</p>
-            <p class="mb-3"><strong>Faixas:</strong> <br> @Html.Raw(string.Join("<br>", Model.Atual.Faixas))</p>
-            <p class="fw-bold">Gênero:</p>
+            <p class="mb-3 text-black"><strong>Album:</strong> @Model.Atual.Album</p>
+            <p class="mb-3 text-black"><strong>Descrição:</strong> @Model.Atual.Descricao</p>
+            <p class="mb-3 text-black"><strong>Faixas:</strong> <br> @Html.Raw(string.Join("<br>", Model.Atual.Faixas))</p>
+            <p class="fw-bold text-black">Gênero:</p>
             <div class="btn-group">
                 @foreach (var tipo in Model.Atual.Tipo)
                 {

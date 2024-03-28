@@ -202,7 +202,7 @@
     "Nome": "Sepultura",
     "Descricao": "Roots é o sexto álbum de estúdio da banda brasileira Sepultura, lançado em 20 de fevereiro de 1996. Este álbum marca um ponto de virada na carreira da banda, apresentando uma mudança significativa em sua sonoridade, incorporando elementos de música indígena brasileira, percussão tribal e influências de world music. Roots foi considerado o 57° melhor disco da música brasileira pela edição brasileira da revista Rolling Stone, e é o último disco do grupo a contar com o vocalista e guitarrista original Max Cavalera.",
     "Album": "Roots",
-    "Faixas": [""],
+    "Faixas": ["1. Roots Bloody Roots", "2. Attitude", "3. Cut-Throat", "4. Ratamahatta", "5. Breed Apart", "6. Straighthate", "7. Spit", "8. Lookaway", "9. Dusted", "10. Born Stubborn", "11. Jasco", "12. Itsári", "13. Ambush", "14. Endangered Species", "15. Dictatorshit", "16. Canyon Jam"],
     "Tipo": ["Death Metal", "Thrash Metal"],
     "Imagem": "\\img\\bandas\\Sepultura26.png"
   },
@@ -211,7 +211,7 @@
     "Nome": "Slayer",
     "Descricao": "Reign in Blood é o terceiro álbum de estúdio da banda americana Slayer, lançado em 7 de outubro de 1986. É frequentemente citado como um dos álbuns mais influentes e importantes no desenvolvimento do thrash metal e é amplamente aclamado pela crítica e pelos fãs como uma obra-prima do gênero. O álbum é conhecido por sua brutalidade e intensidade, apresentando riffs de guitarra rápidos e agressivos, solos frenéticos, batidas explosivas e vocais selvagens. Com uma duração de pouco mais de 29 minutos, Reign in Blood é um álbum curto e direto, mas extremamente poderoso. Foi considerado o álbum mais pesado de todos os tempos pela Kerrang! e ajudou a definir o som do movimento thrash metal norte-americano durante a década de 1980",
     "Album": "Reign in Blood",
-    "Faixas": [""],
+    "Faixas": ["1. Angel of Death", "2. Piece by Piece", "3. Necrophobic", "4. Altar of Sacrifice", "5. Jesus Saves", "6. Criminally Insane", "7. Reborn", "8. Epidemic", "9. Postmortem", "10. Raining Blood"],
     "Tipo": ["Thrash Metal"],
     "Imagem": "\\img\\bandas\\Slayer07.png"
   },
@@ -220,7 +220,7 @@
     "Nome": "Slipknot",
     "Descricao": ".5: The Gray Chapter é o quinto álbum de estúdio da banda americana Slipknot, lançado em 21 de outubro de 2014. Este álbum marca o retorno da banda após a morte do baixista Paul Gray em 2010 e a saída do baterista Joey Jordison em 2013. É um álbum emocionalmente carregado que aborda temas de perda, dor e resiliência.",
     "Album": ".5: The Gray Chapter",
-    "Faixas": [""],
+    "Faixas": ["1. XIX", "2. Sarcastrophe", "3. AOV", "4. The Devil in I", "5. Killpop", "6. Skeptic", "7. Lech", "8. Goodbye", "9. Nomadic", "10. The One That Kills the Least", "11. Custer", "12. Be Prepared for Hell", "13. The Negative One", "14. If Rain Is What You Want"],
     "Tipo": ["Nu Metal"],
     "Imagem": "\\img\\bandas\\Slipknot22.png"
   },
@@ -229,7 +229,7 @@
     "Nome": "Soundgarden",
     "Descricao": "Superunknown é o quarto álbum de estúdio da banda americana Soundgarden, lançado em 9 de março de 1994. Este álbum é considerado um dos marcos do grunge e é frequentemente elogiado pela crítica e pelos fãs como uma obra-prima do gênero. O álbum apresenta uma variedade de estilos musicais, desde o grunge característico da banda até influências de heavy metal, rock psicodélico e até mesmo elementos de música progressiva. Superunknown é notável por suas composições complexas, letras profundas e uma produção sonora rica e diversificada.",
     "Album": "Superunknown",
-    "Faixas": [""],
+    "Faixas": ["1. Let Me Drown", "2. My Wave", "3. Fell on Black Days", "4. Mailman", "5. Superunknown", "6. Head Down", "7. Black Hole Sun", "8. Spoonman", "9. Limo Wreck", "10. The Day I Tried to Live", "11. Kickstand", "12. Fresh Tendrils", "13. 4th of July", "14. Half", "15. Like Suicide"],
     "Tipo": ["Grunge"],
     "Imagem": "\\img\\bandas\\Soundgarden20.png"
   },
@@ -238,7 +238,7 @@
     "Nome": "Stratovarius",
     "Descricao": "Visions é o sexto álbum de estúdio da banda finlandesa Stratovarius, lançado em 28 de abril de 1997. Este álbum é amplamente considerado um marco na carreira da banda e um dos álbuns mais influentes do gênero power metal. Visions apresenta uma combinação única de riffs de guitarra rápidos, teclados épicos, melodias cativantes e vocais poderosos, tudo característico do estilo de power metal da banda. É um álbum conceitual sobre as visões de Nostradamus. Em 2017, o portal Loudwire o elegeu como o 6º melhor disco de power metal de todos os tempos.",
     "Album": "Visions",
-    "Faixas": [""],
+    "Faixas": ["1. The Kiss of Judas", "2. Black Diamond", "3. Forever Free", "4. Before the Winter", "5. Legions", "6. The Abyss of Your Eyes", "7. Holy Light", "8. Paradise", "9. Coming Home", "10. Visions (Southern Cross)"],
     "Tipo": ["Power Metal"],
     "Imagem": "\\img\\bandas\\Stratovarius10.png"
   },
@@ -247,7 +247,7 @@
     "Nome": "Van Halen",
     "Descricao": "5150 é o sétimo álbum de estúdio da banda Van Halen, lançado em 24 de março de 1986. Este álbum é notável por ser o primeiro a apresentar Sammy Hagar como vocalista, substituindo David Lee Roth. O título 5150 é uma referência ao código de polícia na Califórnia para uma pessoa considerada louca e perigosa. O álbum marca uma mudança significativa na sonoridade do Van Halen, com uma abordagem mais acessível e comercial em comparação com os álbuns anteriores da banda. Apesar disso, ainda mantém o estilo distintivo de Eddie Van Halen na guitarra e apresenta composições cativantes e melodias memoráveis. O álbum foi o primeiro da banda a chegar ao topo no ranking de vendas.",
     "Album": "5150",
-    "Faixas": [""],
+    "Faixas": ["1. Good Enough", "2. Why Can't This Be Love", "3. Get Up", "4. Dreams", "5. Summer Nights", "6. Best of Both Worlds", "7. Love Walks In", "8. 5150", "9. Inside"],
     "Tipo": ["Hard Rock"],
     "Imagem": "\\img\\bandas\\Van16.png"
   }
