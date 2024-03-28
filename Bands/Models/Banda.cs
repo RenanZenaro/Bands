@@ -6,7 +6,7 @@ public class Banda
     public string Nome { get; set; }
     public string Descricao { get; set; }
     public string Album { get; set; }
-    public string Faixa { get; set; }
+    public List<string> Faixas { get; set; }
     public List<string> Tipo { get; set; } = [];
     public string Imagem { get; set; }
 }
