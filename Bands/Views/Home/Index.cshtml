@@ -43,7 +43,7 @@
                     <div class="card shadow-sm cursor-pointer @(string.Join('=', banda.Tipo).Replace(' ', '-').Replace('=', ' '))">
                         <img src="@banda.Imagem" class="card-img-top" width="100%" height="300%" alt="@banda.Nome" />
                         <div class="card-body">
-                            <p class="card-text mb-0">Nº @banda.Numero.ToString("000")</p>
+                            <p class="card-text mb-0">Nº @banda.Numero.ToString("00")</p>
                             <h3 class="card-title">@banda.Nome</h3>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
@@ -64,7 +64,5 @@
                 <h1 class="my-3 text-black">Nenhuma Banda Encontrada</h1>
             </div>
         </div>
-
-
     </div>
 </div>
